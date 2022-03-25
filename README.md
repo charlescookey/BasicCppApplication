@@ -1,2 +1,1 @@
-# BasicCppApplication
-Basic C++ Application
+# Basictest
