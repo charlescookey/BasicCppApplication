@@ -29,7 +29,7 @@ int main(int argc, const char* argv[])
         showUsage(opt);
         return 0;
     }
-    int a;
+    int a
 
     showProgramCall(opt);
 
